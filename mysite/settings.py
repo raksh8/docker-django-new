@@ -31,6 +31,7 @@ ALLOWED_HOSTS = ['6e08-103-108-15-99.ngrok.io', 'c5e9-103-108-15-225.ngrok.io']
 # Application definition
 # Application definition
 # Application definition
+# Application definition
 
 INSTALLED_APPS = [
     'django.contrib.admin',
